@@ -6,10 +6,10 @@
 
 1. Клонируйте репозиторий:
    bash
-   git clone
+   git clone https://github.com/LFemina/Portfolio.git
 2. Перейдите в директорию проекта:
    bash
-   cd
+   cd Portfolio
 3. Установите зависимости:
    bash
    npm install
