@@ -25,3 +25,4 @@
 - React Router
 - Vite
 - CSS Modules
+- ESLint
