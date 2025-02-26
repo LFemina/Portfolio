@@ -1,0 +1,23 @@
+.btn {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #62ffddb0;
+    color: black;
+    text-align: center;
+    border-radius: 5px;
+    text-decoration: none;
+    transition: background-color 0.3s;
+    border-radius: 8px;
+    border: 1px solid transparent;
+    font-size: 1em;
+    font-weight: 500;
+    font-family: inherit;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+.btn:hover {
+    background-color: #f47bf89c;
+    color: black;
+    transform: scale(1.10);
+}

@@ -1,0 +1,19 @@
+.home {
+    display: grid;
+    grid-template-columns: 1fr 250px;
+    gap: 20px;
+}
+
+.home_sidebar {
+    list-style: none;
+    margin-top: 50px;
+}
+
+.home_nav {
+    width: 40px;
+    height: 40px;
+}
+
+
+@media (max-width: 768px) {
+}
